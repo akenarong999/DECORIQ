@@ -1,0 +1,33 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+@import './node_modules/bootstrap4c-custom-switch/src/scss/_component-variables.scss';
+@import './node_modules/bootstrap4c-custom-switch/src/scss/_component-custom-switch.scss';
+
+@import './node_modules/bootstrap4c-custom-switch/src/scss/_component-custom-switch.scss';
+
+
+@import 'gijgo.css';
+
+@import 'drop_uploader.css';
+@import 'pe-icon-7-stroke.css';
+
+@import 'font-fileuploader.css';
+@import 'jquery.fileuploader.min.css';
+@import 'jquery.fileuploader-theme-thumbnails.css';
+
+@import './node_modules/flag-icon-css/sass/flag-icon.scss';
+@import "./node_modules/bootstrap-select/sass/bootstrap-select.scss";
+
+$slick-font-path: "~slick-carousel/slick/fonts/";
+$slick-loader-path: "~slick-carousel/slick/";
+@import "~slick-carousel/slick/slick.scss";
+@import "~slick-carousel/slick/slick-theme.scss";
