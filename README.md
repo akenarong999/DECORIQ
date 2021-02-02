@@ -8,4 +8,6 @@ DECORIQ is a specialist platform for home products and services. The platform wi
   <li>MySQL</li>
 </ul>
 <br />
-<img src="https://i.imgur.com/lasRs6i.jpg" />
+<img src="https://i.imgur.com/lasRs6i.jpg" /><br />
+<img src="https://i.imgur.com/TrmR6C6.jpg" /><br />
+<img src="https://i.imgur.com/RnKF3Vf.png" />
